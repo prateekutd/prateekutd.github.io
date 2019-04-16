@@ -197,3 +197,7 @@ hr {
 .auth1 { 
   animation-delay: 2.5s; 
 }
+
+.img.maa {
+  width: 20;
+}
