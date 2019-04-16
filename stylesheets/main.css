@@ -88,12 +88,12 @@ hr {
   position: relative;
   display: block;
   overflow: hidden; 
-  width: 0em;
+  width: 1em;
   height: 1.25em;
-  margin: 1em auto;
+  margin: 2em auto;
   font-size: 2em;
   line-height: 1.5em;
-  border-right: .125em solid #39F;
+  border-right: .25em solid #39F;
   box-sizing: content-box;
   animation-name: blink-start, typing, blink-end;
   animation-duration: 1s, 1s, 1s;
