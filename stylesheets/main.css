@@ -149,18 +149,15 @@ hr {
   margin: -1em auto 1.5em auto;
 }
 
-.description a {
+.description p {
   display: inline-block;
-  overflow: hidden;
-  opacity: 0;
-  width: 2em;
   line-height: 2em;
-  margin: 0 .20em;
+
   color: #555;
   font-size: 1.5em;
   transition: background-color .2s ease-in-out;
   border-radius: 50%;
-  animation: icons .2s ease-out 0s 1 normal forwards;
+  /*animation: icons .2s ease-out 0s 1 normal forwards;*/
 }
 
 
